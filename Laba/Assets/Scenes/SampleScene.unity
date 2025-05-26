@@ -132,7 +132,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 25644fdb850987743b9d4d04e6a9b856, type: 3}
       propertyPath: m_Name
-      value: bear
+      value: ReName
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 25644fdb850987743b9d4d04e6a9b856, type: 3}
       propertyPath: m_RootOrder
